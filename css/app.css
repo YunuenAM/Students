@@ -37,3 +37,17 @@ img{
         max-width: 100%;
         height: auto;
       }
+
+
+.card-equal-height {
+        height: 100%;
+      }
+      
+
+equal-height {
+        display: flex;
+      }
+
+ .card-img-top {
+        max-height: 250px;
+      }
